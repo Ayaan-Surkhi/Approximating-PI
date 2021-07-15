@@ -13,7 +13,7 @@ function setup() {
     background(0);
 
     textSize(18);
-    text('Approximating PI using Circumference', width/2-190, 20);
+    text('Approximating Pi using Circumference', width/2-190, 20);
 
     approximate();
 }
